@@ -1,0 +1,22 @@
+{
+    "application_properties": {
+        "antiAlias": true,
+        "use3dPhysics": false,
+        "preserveDrawingBuffer": false,
+        "transparentCanvas": false,
+        "useDevicePixelRatio": false,
+        "fillMode": "FILL_WINDOW",
+        "preferWebGl2": true,
+        "useLegacyScripts": false,
+        "resolutionMode": "AUTO",
+        "height": 720,
+        "width": 1280,
+        "vr": false,
+        "scripts": [],
+        "useModelV2": false,
+        "loadingScreenScript": null,
+        "batchGroups": [],
+        "libraries": []
+    },
+    "assets": {}
+}
